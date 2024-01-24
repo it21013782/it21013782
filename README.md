@@ -1,6 +1,6 @@
 ### HELLO THERE!
 
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 I'm a 3rd-year undergraduate, following a BSc(Hons) Degree in Information Technology specializing in Information Technology. Passionate IT enthusiast is adept at identifying societal issues, learning new technologies, and creating innovative projects to tackle them.
 
